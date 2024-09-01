@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,adobe.io
-DOMAIN_SUFFIX,adobestats.io
-DOMAIN_SUFFIX,prod.cloud.adobe.io
-DOMAIN_SUFFIX,0ojupfm51u.adobe.io
-DOMAIN_SUFFIX,gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com
+DOMAIN-KEYWORD,adobe.io
+DOMAIN_KEYWORD,adobestats.io
+DOMAIN_KEYWORD,prod.cloud.adobe.io
+DOMAIN_KEYWORD,0ojupfm51u.adobe.io
+DOMAIN_KEYWORD,gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com
