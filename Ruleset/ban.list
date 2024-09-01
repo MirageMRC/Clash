@@ -1,4 +1,2 @@
 DOMAIN-SUFFIX,adobe.io
-DOMAIN_SUFFIX,prod.cloud.adobe.io
-DOMAIN_SUFFIX,0ojupfm51u.adobe.io
-DOMAIN_SUFFIX,gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com
+DOMAIN,gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com
